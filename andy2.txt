@@ -1,14 +1,4 @@
 moy es el mas chido
 Carlos, si estas leyendo esto, por favor, dejame ver a los niños
-<<<<<<< HEAD
-<<<<<<< HEAD
 Gracias isra, es el mejor maestro
 esto es una prueba
-<<<<<<< HEAD
-=======
->>>>>>> 9700430 (no se que poner)
-=======
-Gracias isra, es el mejor maestro
->>>>>>> 060dfae (:()
-=======
->>>>>>> f2be2aa (prueba)
