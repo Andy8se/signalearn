@@ -8,9 +8,15 @@ esto es una prueba
 <<<<<<< HEAD
 Gracias isra, es el mejor maestro
 esto es una prueba
+<<<<<<< HEAD
 =======
 >>>>>>> 9700430 (no se que poner)
 =======
 Gracias isra, es el mejor maestro
 >>>>>>> 060dfae (:()
+<<<<<<< HEAD
 >>>>>>> 15e3f3e (:()
+=======
+=======
+>>>>>>> f2be2aa (prueba)
+>>>>>>> 0b39e69 (prueba)
