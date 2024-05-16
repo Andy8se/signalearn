@@ -1,4 +1,7 @@
 moy es el mas chido
 Carlos, si estas leyendo esto, por favor, dejame ver a los niños
+<<<<<<< HEAD
 Gracias isra, es el mejor maestro
 esto es una prueba
+=======
+>>>>>>> 9700430 (no se que poner)
